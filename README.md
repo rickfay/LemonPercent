@@ -3,9 +3,10 @@
 ### Download: [LemonPercent.zip](LemonPercent.zip)
 
 
-<blockquote style="color: red; font-weight: bold;">
-I strongly advise you to read through this entire document before starting the plando, ESPECIALLY the section on SOFTLOCKS.
-</blockquote>
+````diff
+- I strongly advise you to read through this entire document before starting the plando,
+- ESPECIALLY the section on SOFTLOCKS.
+````
 
 ## About
 
@@ -37,7 +38,7 @@ The goal of this plando was to put the glitches first. Relying on the game's int
     - Be sure to check out the "Modify Glitch Logic" settings in the Options menu. For spoiler reasons I won't say which ones to enable, but as you play through the plando it should become apparent which ones are needed. 
 
 
-<h2 style="color:red;">SOFTLOCK WARNINGS</h2>
+## SOFTLOCK WARNINGS
 
 - The Maiamai are for upgrading Bombs to Nice Bombs ONLY. Do not upgrade any other items or you may find yourself unable to progress the game.
 
